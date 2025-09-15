@@ -69,4 +69,22 @@ College student parents (primary user interacting with the app); college student
 
 [Stocking the Shelves with a Taste of Home:](https://www.eater.com/24249625/ethnic-grocery-stores-midwest-taste-of-home) Article that reports on the inconvenience of acquiring ethnic ingredients, such as lack of accessibility and long distances, until local ethnic grocers opened up, showing the need for a location app and reporting on new store arrivals.
 
-[Food Deserts in the United States:](https://en.wikipedia.org/wiki/Food_deserts_in_the_United_States)
+[Food Deserts in the United States:](https://en.wikipedia.org/wiki/Food_deserts_in_the_United_States) Wikipedia page talking about communities that lack supermarkets that offer culturally appropriate foods for the population or region, making access to ethnic groceries an equity concern.
+
+[H-mart:](https://en.wikipedia.org/wiki/H_Mart) An article discussing H mart, an international grocery chain that serves immigrant needs. Shows how much demand there is for new populations, as well as exposes a new area for market growth by targeting cultural needs.
+
+[Saraga Is the International Grocery Store of My Dreams](https://www.bonappetit.com/story/saraga-international-grocery-store-dreams) An article discussing Saraga, a mega grocery store that offers many diverse cultural foods and services, talks about how offering centralized, well organized grocery retail locations can create a community hub for immigrant residents. 
+
+# College Party Finder
+
+[Party / event finder reddit thread](https://www.reddit.com/r/Frat/comments/2t7hza/partyevent_finder_for_college_students/) A very old reddit thread talking about demand for a party finder app, with tons of students showing support.
+
+[Rage](https://apps.apple.com/us/app/rage-parties-near-you/id1580334079) Mobile app that targets students, promoting house party discovert on campuses, shows that students actively look for these tools.
+
+# College parent primer guide
+
+[One surprising barrier to college success](https://hechingerreport.org/one-surprising-barrier-to-success-in-college-understanding-higher-education-lingo/)
+
+## Features
+
+# 
