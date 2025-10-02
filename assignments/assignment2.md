@@ -237,6 +237,8 @@ The four concepts together provide the essential building blocks for the grocery
 
 ## UI Sketches
 
+[UI Sketch](https://ibb.co/s98qpjB7)
+
 ## User Journey
 
 Mei has just moved to Boston. She grew up in a Chinese household and wants to cook familiar meals, but she doesn’t know where to find authentic ingredients like fresh bok choy, soy paste, or Lao Gan Ma sauce. She tried searching “Asian market” on Google Maps, but the results are inconsistent, some stores are far away, while others don’t stock the ingredients she needs. After two frustrating trips, she still hasn’t found a reliable grocery store.
